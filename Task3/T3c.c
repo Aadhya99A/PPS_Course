@@ -50,7 +50,7 @@ Day 3: Wednesday
 
 #3
 Enter a number (1-7) to get the corresponding day of the week: 5
-Day 5: Friday
+Day 5: Friday.
 
 #4
 Enter a number (1-7) to get the corresponding day of the week: 7
