@@ -34,7 +34,7 @@ Enter a divisor: 2
 #2
 Enter a number: 10
 Enter a divisor: 3
-10 is not divisible by 3.
+10 is not divisible by 3.00
 
 #3
 Enter a number: 10

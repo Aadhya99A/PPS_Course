@@ -27,5 +27,5 @@ Enter a number: 12
 
 #2
 Enter a number: 13
-13 is an odd number.
+13 is an odd number
 */

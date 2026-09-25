@@ -35,7 +35,7 @@ int main() {
 /*
 Sample Input/Output: (5, 10, 3), (7, 2, 9)
 
-#1
+#1.
 Enter three numbers: 5 10 3
 Maximum number: 10
 Minimum number: 3

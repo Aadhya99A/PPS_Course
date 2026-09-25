@@ -25,7 +25,7 @@ int main() {
 Sample Input/Output: 5, -3, 0
 
 #1
-Enter a number: 5
+Enter a number: 5.00
 5 is a positive number.
 
 #2
